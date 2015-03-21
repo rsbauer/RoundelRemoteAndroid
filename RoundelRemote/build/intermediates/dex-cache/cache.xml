@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/pre-dexed/release/classes-f4e8e2319f3f4599c63414f4669d33607ef7be3c.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/pre-dexed/release/internal_impl-21.0.0-87f40516af9ba8265437a935099d4d6c5e367e5f.jar" />
+    </item>
+    <item
+        jar="/Users/astro/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/gson-2.3-02aaa89d38a34ac10cf4af5be56fabd330f56db4.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/pre-dexed/release/classes-cc689dc2688c3c96c5218e704807b945c9bcc84b.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/classes-7e5a1658804eb0481c28bb1234520f04f7bdc4a3.jar" />
+    </item>
+    <item
+        jar="/Users/astro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d2134afaaed68a0df765ea7c3ec61e26b514b67b.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/classes-10f93c4498f32ab1c2cdd2f6454a7cbe3b6b6bb5.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/classes-8359839951737c5ccaad5133c86dd8b4b1a20fd4.jar" />
+    </item>
+    <item
+        jar="/Users/astro/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.5/f5955713301768e274667a66b942f2b82450ffcf/library-1.0.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5955713301768e274667a66b942f2b82450ffcf">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/library-1.0.5-26b5a8962e4beb19a28fc1cf9fcda3aff4937345.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-74e76baf222a8d3322fa2dbf5407cab32b4e0ddb.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/pre-dexed/release/classes-ecd254431b0a1a20ab2e2bb4a887d499fe3862e2.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/pre-dexed/release/classes-f24a307d6a9827e74d6f461081b144257510ecbd.jar" />
+    </item>
+    <item
+        jar="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/pre-dexed/release/classes-5e2d14e882c606f47a2926b31ae8c3b29016c331.jar" />
+    </item>
+    <item
+        jar="/Users/astro/.gradle/caches/modules-2/files-2.1/org.roboguice/roboguice/3.0.1/24e814f35d5cc28eaa7e9f07a50ea69deeb2b544/roboguice-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="24e814f35d5cc28eaa7e9f07a50ea69deeb2b544">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/mobile/build/intermediates/pre-dexed/debug/roboguice-3.0.1-d9feb8e377680e4dce317b5a1ad25ce29689a264.jar" />
+    </item>
+    <item
+        jar="/Users/astro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/astro/AndroidStudioProjects/RoundelRemote/wear/build/intermediates/pre-dexed/release/support-annotations-21.0.0-7b1cd879cde6546f1441e82bd0981da5f98a0927.jar" />
+    </item>
+
+</items>
