@@ -11,4 +11,4 @@ App not supported and may get removed from the app store.
 
 Console | Login
 --- | --- 
-<img src="https://raw.githubusercontent.com/rsbauer/RoundelRemoteAndroid/master/images/console.png" width="200"> | <img src="https://raw.githubusercontent.com/rsbauer/RoundelRemoteAndroid/master/images/login.png" width="200">
+<img src="https://raw.githubusercontent.com/rsbauer/RoundelRemoteAndroid/master/images/console.png" width="400"> | <img src="https://raw.githubusercontent.com/rsbauer/RoundelRemoteAndroid/master/images/login.png" width="400">
